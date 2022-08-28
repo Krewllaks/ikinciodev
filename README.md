@@ -1,0 +1,2 @@
+# ikinciodev
+ikinci ödev sayfası
